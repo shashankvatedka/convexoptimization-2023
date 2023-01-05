@@ -1,0 +1,14 @@
+#+TITLE: Simple exercises in python
+#+AUTHOR: Shashank Vatedka
+
+
+* Basic python 
+The following exercises will require some more concepts than those covered in the videos (e.g., how to read files, and how to take user inputs).
+  - Write a program to compute the n'th number in the Fibonacci sequence (using recursion)
+  - Write a program to compute the binomial coefficient (using functions and recursion)
+  - Write a program to open a text file, and compute the frequency of occurrence of each of the characters in the english alphabet
+  - Write a function that does the following: given a string, and a text file as input, output the number of occurrences of the string within the file.
+  - Write a program to implement a 2-player [[https://playtictactoe.org/][tic-tac-toe]] game (by taking user inputs) 
+
+* Numpy and matplotlib
+
